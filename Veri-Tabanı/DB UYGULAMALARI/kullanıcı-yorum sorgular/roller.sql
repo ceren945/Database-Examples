@@ -1,0 +1,1 @@
+insert into roller values (1,'okur'),(2,'yazar'),(3,'yonetici')
